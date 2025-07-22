@@ -17,4 +17,4 @@ COPY main.py .
 VOLUME ["/data"]
 
 # Entry point
-ENTRYPOINT ["python", "main.py"]
+ENTRYPOINT ["python", "d2s3.py"]
