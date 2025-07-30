@@ -10,8 +10,8 @@ from botocore.client import Config
 # S3 Configuration
 S3_BUCKET = 'cmcc'
 S3_ENDPOINT_URL = "https://s3.hpccloud.lngs.infn.it"
-AWS_ACCESS_KEY_ID = "EQKLIS2F7788CV090CPT"
-AWS_SECRET_ACCESS_KEY = "UTCw4Ebpi7a2n1Mn28ET0p2dDye3WHIFkFSyBVn7"
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
 
 # Paths
 LOCAL_DOWNLOAD_DIR = Path("./data")
